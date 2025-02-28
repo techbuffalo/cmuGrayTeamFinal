@@ -1,0 +1,11 @@
+altair
+beautifulsoup4
+json5
+jupyterlab
+matplotlib
+mitreattack-python
+numpy
+pandas
+requests
+seaborn
+streamlit
